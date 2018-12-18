@@ -6,8 +6,8 @@ from instapy.util import smart_run
 
 
 # login credentials
-insta_username = ''
-insta_password = ''
+insta_username = 'mau_spam_kuy'
+insta_password = 'Mamahpapah'
 
 # get an InstaPy session!
 # set headless_browser=True to run InstaPy in the background
